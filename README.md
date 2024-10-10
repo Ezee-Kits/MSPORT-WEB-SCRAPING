@@ -42,7 +42,7 @@ pip install selenium beautifulsoup4 pandas lxml
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/YourUsername/MSPORT-Betting-Scraper.git
+   git clone https://github.com/Ezee-Kits/MSPORT-Betting-Scraper.git
    ```
 
 2. **Set Up ChromeDriver**:  
